@@ -6,11 +6,11 @@
 </a>
 <h2>AWS Monitoring with OMS Custom Solution</h2>
 
-<p>Step 1 : Run AzureDeploy.json from https://github.com/riteshgrover/AWSSolutionPublic to deploy the required runbooks.</p>
-<p>Step 2 : Update Variable aws_dimensionperf with all EC2 Instance ID's and aws_dim_rds with all DB instances (EC2 Instance ID's or DB Instance would be comma saperated)</p>
+<p>Step 1 : Run Final Project.json from https://github.com/arnav-1810/final-project to deploy the required runbooks.</p>
+<p>Step 2 : Input the required OMS and AWS credentials in the azure portal, all in ' ', except subscription ID, account name and view workspace name.</p>
 <p>Step 3 : Import AWSPowershell module under Automation Account assets from gallery.</p>
-<p>Step 4 : Create hourly schedule for aws_control.ps1 under automation</p>
-<p>Step 5 : Create Required Views</p>
+<p>Step 4 : Link hourly schedule for aws_control.ps1 under automation</p>
+<p>Step 5 : Create additional Required Views</p>
 
 </body>
 </html>
