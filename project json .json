@@ -267,7 +267,7 @@
         "TimeZone": "[parameters('scheduleTimeZone')]",
         "SolutionVersion": "1.2",
         "SolutionPublisher": "Contoso",
-        "SolutionName": "projectmsf",
+        "SolutionName": "microsoftaws_1",
         "LogAnalyticsApiVersion": "2015-11-01-preview",
         "ViewAuthor": "user@contoso.com",
         "ViewDescription": "This is a sample view.",
